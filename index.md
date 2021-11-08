@@ -14,7 +14,7 @@ truffle: 本地编译环境
 
 solidity语言写在sol文件，语法类似python与js。
 
-
+## 变量
 mapping 类似python中字典（dict）
 
 address 地址
@@ -22,8 +22,10 @@ address 地址
 function 定义函数
 
 contract 定义合约
-  this 合约地址
-  msg.sender 合约调用者地址
+
+this 合约地址
+
+msg.sender 合约调用者地址
 
 ```markdown
 Syntax highlighted code block
