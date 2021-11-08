@@ -29,7 +29,9 @@ msg.sender 合约调用者地址
 
 ### 关键字
 
-is 表示集成
+is 表示继承
+
+https://blog.csdn.net/qq624202120/article/details/107272084
 
 ```markdown
 Syntax highlighted code block
