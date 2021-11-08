@@ -10,9 +10,20 @@ truffle: 本地编译环境
 
 
 
-### Markdown
+### Solidit语法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+solidity语言写在sol文件，语法类似python与js。
+
+
+mapping 类似python中字典（dict）
+
+address 地址
+
+function 定义函数
+
+contract 定义合约
+  this 合约地址
+  msg.sender 合约调用者地址
 
 ```markdown
 Syntax highlighted code block
@@ -34,10 +45,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 智能合约运行
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/banjuanshua/soliditycn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
