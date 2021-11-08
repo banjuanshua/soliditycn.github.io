@@ -10,11 +10,11 @@ truffle: 本地编译环境
 
 
 
-### Solidit语法
+## Solidit语法
 
 solidity语言写在sol文件，语法类似python与js。
 
-## 变量
+### 变量
 mapping 类似python中字典（dict）
 
 address 地址
